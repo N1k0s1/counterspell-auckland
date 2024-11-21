@@ -1,4 +1,4 @@
-// Based on the auckland Sponsors
+// Based on the Oshkosh sponsors
 export default function Sponsors() {
     return (
       <div className="items-center justify-center py-24 text-center retro bg-darker">
